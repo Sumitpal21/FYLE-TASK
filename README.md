@@ -15,7 +15,7 @@ This project is a fully responsive website designed and implemented according to
 
 ## Usage
 
-To view the website, simply visit [https://varungupta1729.github.io/Fyle-Task/](#) in your web browser.
+To view the website, simply visit [https://sumitpal21.github.io/FYLE-TASK/](#) in your web browser.
 
 ## Getting Started
 
@@ -47,5 +47,5 @@ You can find the detailed list of requirement features of task [here](https://fy
 ## Credits
 
 - **Design:** Fyle
-- **Development:** Varun Gupta
+- **Development:** Sumit Pal
 
